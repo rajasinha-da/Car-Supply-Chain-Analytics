@@ -1,0 +1,55 @@
+{
+  "name": "Modern Corporate Blue",
+  "dataColors": [
+    "#1F4E79",
+    "#00A6FB",
+    "#2E7D32",
+    "#D32F2F",
+    "#F9A825",
+    "#5C6B73",
+    "#9DB4C0",
+    "#253237"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#0F172A",
+  "tableAccent": "#1F4E79",
+  "good": "#2E7D32",
+  "neutral": "#F9A825",
+  "bad": "#D32F2F",
+  "maximum": "#2E7D32",
+  "center": "#F9A825",
+  "minimum": "#D32F2F",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F5F7FA" } },
+            "transparency": 0
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#1F4E79" } }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#5C6B73" } }
+          }
+        ]
+      }
+    }
+  }
+}
