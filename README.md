@@ -18,14 +18,12 @@ The goal was to create a centralized analytics solution that enables faster and 
 ## Dataset Description
 
 ### The dataset contains car supply chain information including:
-    Vehicle details
-    Supplier and manufacturer information
+    Vehicle Model
+    Supplier information
     Order information
     Sales transactions
     Inventory levels
-    Logistics and delivery details
-    Location and regional data
-    Cost and revenue-related fields
+    Warehouse Details
 
 The dataset was cleaned, transformed, and modeled to create an efficient analytical data model.
 
